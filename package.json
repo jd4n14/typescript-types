@@ -1,0 +1,12 @@
+{
+  "name": "mysql-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mysql": "^2.15.21",
+    "mysql": "^2.18.1",
+    "node-sql-parser": "^4.3.0",
+    "typescript": "^4.7.4"
+  }
+}
